@@ -1,4 +1,5 @@
 ﻿using System;
+using ArraysAndStrings;
 
 namespace main
 {
@@ -6,7 +7,9 @@ namespace main
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            bool isUnique = UniqueCharsInString.isUniqueChar("akosa", 26);
+            string[] test = new string[5];
+            Console.WriteLine(test[1]);
         }
     }
 }
