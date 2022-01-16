@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main", "main\main.csproj", "{4CF59DDC-1554-4411-89F9-88DF68A8065B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{953199E4-0D7F-4BFC-AD23-6B6EFF4A744E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{18B67DFA-B1D0-4EC1-91FC-AF644BF26BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF59DDC-1554-4411-89F9-88DF68A8065B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF59DDC-1554-4411-89F9-88DF68A8065B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF59DDC-1554-4411-89F9-88DF68A8065B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF59DDC-1554-4411-89F9-88DF68A8065B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953199E4-0D7F-4BFC-AD23-6B6EFF4A744E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953199E4-0D7F-4BFC-AD23-6B6EFF4A744E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953199E4-0D7F-4BFC-AD23-6B6EFF4A744E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953199E4-0D7F-4BFC-AD23-6B6EFF4A744E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B67DFA-B1D0-4EC1-91FC-AF644BF26BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B67DFA-B1D0-4EC1-91FC-AF644BF26BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B67DFA-B1D0-4EC1-91FC-AF644BF26BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B67DFA-B1D0-4EC1-91FC-AF644BF26BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38EAA7A2-AE0D-427F-8140-726789C82098}
+	EndGlobalSection
+EndGlobal
