@@ -8,7 +8,7 @@ namespace main
         static void Main(string[] args)
         {
             
-            Console.WriteLine(Urlify.StringToUrl("Mr John Smith    "));
+            Console.WriteLine((1 << 2) & (1 << 2));
         }
     }
 }
