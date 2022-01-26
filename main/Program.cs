@@ -8,7 +8,7 @@ namespace main
         static void Main(string[] args)
         {
             
-            Console.WriteLine(OneAway.isOneAway("pale","ple"));
+            Console.WriteLine(StringCompression.CompressString("aaabbccddeeffgg"));
         }
     }
 }
